@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BSS138W")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/BSS138W/BSS138W.kicad_sym")(options "")(descr ""))
+)

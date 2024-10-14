@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "Conn_Molex_393570002")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/Conn_Molex_393570002")(options "")(descr ""))
   (lib (name "Conn_Molex_393570004")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/Conn_Molex_393570004")(options "")(descr ""))
+  (lib (name "BSS138W")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/BSS138W/BSS138W.pretty")(options "")(descr ""))
 )
