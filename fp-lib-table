@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Conn_Molex_393570002")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/Conn_Molex_393570002")(options "")(descr ""))
+  (lib (name "Conn_Molex_393570004")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/Conn_Molex_393570004")(options "")(descr ""))
+)
