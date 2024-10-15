@@ -1696,7 +1696,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Conn_Molex_393570004:Molex-393570004-MFG"
+		(property "Footprint" "TZ042101B000G:TZ042101B000G"
 			(at 40.64 21.59 0)
 			(effects
 				(font
@@ -2106,7 +2106,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Conn_Molex_393570002:Molex-393570002-MFG"
+		(property "Footprint" "TZ022101B000G:TZ022101B000G"
 			(at 85.09 19.05 0)
 			(effects
 				(font

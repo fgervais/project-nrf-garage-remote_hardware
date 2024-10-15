@@ -3,4 +3,6 @@
   (lib (name "Conn_Molex_393570002")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/Conn_Molex_393570002")(options "")(descr ""))
   (lib (name "Conn_Molex_393570004")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/Conn_Molex_393570004")(options "")(descr ""))
   (lib (name "BSS138W")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/BSS138W/BSS138W.pretty")(options "")(descr ""))
+  (lib (name "TZ022101B000G")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/TZ022101B000G/TZ022101B000G.pretty")(options "")(descr ""))
+  (lib (name "TZ042101B000G")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/TZ042101B000G/TZ042101B000G.pretty")(options "")(descr ""))
 )
