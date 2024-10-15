@@ -2365,7 +2365,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "PD"
 			(at 38.1 62.2299 0)
 			(effects
 				(font
