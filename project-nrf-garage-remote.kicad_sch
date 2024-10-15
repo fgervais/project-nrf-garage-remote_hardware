@@ -2083,7 +2083,8 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 85.09 19.05 0)
+		(at 85.09 21.59 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2091,7 +2092,7 @@
 		(dnp no)
 		(uuid "847fc462-39a2-4fac-a11e-5b9a8afe488f")
 		(property "Reference" "J1"
-			(at 88.138 19.558 0)
+			(at 88.138 21.082 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2099,7 +2100,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x02"
-			(at 97.79 21.844 0)
+			(at 97.79 18.796 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2107,7 +2108,7 @@
 			)
 		)
 		(property "Footprint" "TZ022101B000G:TZ022101B000G"
-			(at 85.09 19.05 0)
+			(at 85.09 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2116,7 +2117,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 85.09 19.05 0)
+			(at 85.09 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2125,7 +2126,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 85.09 19.05 0)
+			(at 85.09 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
