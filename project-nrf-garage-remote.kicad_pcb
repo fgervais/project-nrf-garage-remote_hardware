@@ -107,7 +107,6 @@
 		(property "Value" "BSS138W"
 			(at -0.05 2.05 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "f25a542a-5ab3-4021-9189-68c1fa966a28")
 			(effects
 				(font
@@ -373,9 +372,8 @@
 			)
 		)
 		(property "Value" "BSS138W"
-			(at -0.05 2.05 360)
+			(at -0.05 -2.25 360)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "d1852bf1-212e-4f4c-891b-fc0e7ee37898")
 			(effects
 				(font
@@ -981,9 +979,8 @@
 			)
 		)
 		(property "Value" "PD"
-			(at 0 1.43 360)
+			(at 0.25 -1.25 360)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "b8d252b8-5871-46b0-9de0-ce07c5baa150")
 			(effects
 				(font
