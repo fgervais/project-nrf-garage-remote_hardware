@@ -159,7 +159,7 @@
 		(path "/fd9a48a7-3a06-4b8a-95f7-5c83496112cc")
 		(sheetname "Root")
 		(sheetfile "project-nrf-garage-remote.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.237258 0.5225)
 			(end 0.237258 0.5225)
@@ -1993,6 +1993,26 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "f8efb94f-48f6-429e-859f-29ac0e15ccec")
+	)
+	(gr_line
+		(start 36.75 24.75)
+		(end 40.25 26.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "e0a915e1-1de5-4dc9-ae7c-3d7239d87cf4")
+	)
+	(gr_line
+		(start 36.75 26.5)
+		(end 40.25 24.75)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "ebfda452-8d58-416c-a5ee-09106e5fe868")
 	)
 	(gr_text "François Gervais\n17 oct. 2024\nv2.0.0"
 		(at 50 22.5 0)
